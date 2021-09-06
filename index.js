@@ -1,6 +1,6 @@
 const weatherAPI = {
   key: 'f74f380fe2aba7bc517b36c10cd70eca',
-  baseURL: 'http://api.openweathermap.org/data/2.5/weather',
+  baseURL: 'https://api.openweathermap.org/data/2.5/weather',
 }
 const searchInputBox=document.getElementById('input-box');
 
